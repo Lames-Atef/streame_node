@@ -1,0 +1,3 @@
+Node.js allows handling large files efficiently.
+Streams read data in chunks.
+This improves performance and memory usage.
